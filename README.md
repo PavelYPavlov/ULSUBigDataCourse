@@ -40,6 +40,12 @@ https://www.kdnuggets.com/2021/09/text-preprocessing-methods-deep-learning.html
 ## Python
 **Books**
 
+http://wombat.org.ua/AByteOfPython/ - A Byte of Python
+https://python.swaroopch.com/ - "Укус Питона"
+Лутц Марк.Изучаем Python, том 1, 5-е изд.: Пер. с англ. — СПб.: ООО “Диалектика”, 2019. — 832 с. : ил. — Парад, тит. англ.
+ISBN 978-5-907144-52-1 (рус., том 1) ISBN 978-5-907144-51 (рус., многотом.)
+Лутц Марк. Изучаем Python, том 2, 5-е изд. : Пер. с англ. — СПб. : ООО “Диалектика”, 2020. — 720 с. : ил. — Парал. тит. англ. ISBN 978-5-907144-53-8 (рус., том 2)
+
 **Links**
 
 https://github.com/vinta/awesome-python
