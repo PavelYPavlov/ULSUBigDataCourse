@@ -1,6 +1,15 @@
 # ULSUBigDataCourse
 This repository contains useful information for studying disciplines related to big data, machine learning and artificial intelligence.
 
+## Big Data
+**Books**
+
+Томас Эрл. Основы Big Data. Концепции, алгоритмы и технологии. 2018
+
+**Links**
+
+https://habr.com/ru/post/563582/ - Как объяснить детям, что такое Apache Kafka за 15 минут с картинками и выдрами
+
 ## Data Science
 **Books**
 
@@ -8,15 +17,13 @@ This repository contains useful information for studying disciplines related to 
 
 Грас Д. Data Science. Наука о данных с нуля: Пер. с англ. - 2-е изд., перераб. и доп. - СПб.: БХВ-Петербурr, 2021. - 416 с.: ил.
 
-Томас Эрл. Основы Big Data. Концепции, алгоритмы и технологии. 2018
-
 **Links**
 
 
 ## Machine Learning
 **Books**
 
-Флах П. - Машинное обучение. Наука и искусство построения алгоритмов, которые извлекают знания из данных / пер с англ. А.А. Слинкина. - М.: ДМК Пресс, 2015. - 400 с.: ил. ISNM 978-5-97060-273-7
+Флах П. - Машинное обучение. Наука и искусство построения алгоритмов, которые извлекают знания из данных / пер с англ. А.А. Слинкина. - М.: ДМК Пресс, 2015. - 400 с.: ил. ISBN 978-5-97060-273-7
 
 Рашка С. Python и машинное обучение: машинное и глубокое обучение с использованием Python, scikit-learn и TensorFlow 2, 3-е изд.: Пер с англ. - СПб.: ООО "Диалектика", 2020. - 848 с.: ил. ISBN 978-5-907203-57-0
 
@@ -107,4 +114,6 @@ https://dataphoenix.info/
 https://developers.google.com/machine-learning/crash-course
 
 https://www.coursera.org/specializations/machine-learning-data-analysis?utm_source=MIPT&utm_medium=institutions&utm_campaign=source:site|user:vQYCY5w5l7_2020-08-05T10:56:59.213Z|medium:refferal|campaign:eldf|content:#instructors - Машинное обучение и анализ данных. Типовые задачи машинного обучения и анализа данных и методы их решения
+
+https://dataflowr.github.io/website/ - This site collects resources to learn Deep Learning
 
