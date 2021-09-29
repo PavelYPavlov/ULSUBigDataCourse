@@ -35,6 +35,7 @@ https://www.deeplearningbook.org/
 
 https://habr.com/ru/post/575130/ - Классификатор методом BallTree поиска k-ближайших соседей на Python
 
+https://github.com/rasbt/python-machine-learning-book-3rd-edition
 
 ## Neural Networks 
 **Books**
@@ -65,16 +66,33 @@ http://wombat.org.ua/AByteOfPython/ - A Byte of Python
 
 https://python.swaroopch.com/ - "Укус Питона"
 
-Лутц Марк.Изучаем Python, том 1, 5-е изд.: Пер. с англ. — СПб.: ООО “Диалектика”, 2019. — 832 с. : ил. — Парад, тит. англ.
-ISBN 978-5-907144-52-1 (рус., том 1) ISBN 978-5-907144-51 (рус., многотом.)
+Лутц Марк.Изучаем Python, том 1, 5-е изд.: Пер. с англ. — СПб.: ООО “Диалектика”, 2019. — 832 с. : ил. — Парад, тит. англ. ISBN 978-5-907144-52-1 (рус., том 1) ISBN 978-5-907144-51 (рус., многотом.)
 
 Лутц Марк. Изучаем Python, том 2, 5-е изд. : Пер. с англ. — СПб. : ООО “Диалектика”, 2020. — 720 с. : ил. — Парал. тит. англ. ISBN 978-5-907144-53-8 (рус., том 2)
 
+https://docs.python-guide.org/ - The Hitchhiker’s Guide to Python!
+
 **Links**
+
+https://github.com/trending/python
 
 https://github.com/vinta/awesome-python
 
+https://github.com/trananhkma/fucking-awesome-python
+
+https://github.com/Junnplus/awesome-python-books
+
+https://github.com/jerry-git/learn-python3
+
+https://github.com/gregmalcolm/python_koans - интерактивное руководство по изучению Python через тестирование
+
+https://github.com/donnemartin/interactive-coding-challenges - Задачи на Python
+
 https://webdevblog.ru/jupyter-notebook-dlya-nachinajushhih-uchebnik/ - Jupyter Notebook для начинающих: учебник
+
+https://github.com/markusschanta/awesome-jupyter
+
+https://github.com/bharathgs/Awesome-pytorch-list
 
 https://habr.com/ru/post/557998/ - Python, корреляция и регрессия: часть 1
 
@@ -117,3 +135,8 @@ https://www.coursera.org/specializations/machine-learning-data-analysis?utm_sour
 
 https://dataflowr.github.io/website/ - This site collects resources to learn Deep Learning
 
+https://habr.com/ru/company/skillfactory/blog/504882/ - 65 бесплатных курсов по Machine Learning от ведущих университетов мира
+
+https://habr.com/ru/company/skillfactory/blog/503730/ - Бесплатные курсы по Data Science от Harvard University
+
+https://habr.com/ru/company/skillfactory/blog/504878/ - 109 бесплатных курсов по Data Science
