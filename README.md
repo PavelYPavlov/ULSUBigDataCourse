@@ -26,7 +26,17 @@ https://www.deeplearningbook.org/
 
 **Links**
 
-## Text Analysis
+https://habr.com/ru/post/575130/ - Классификатор методом BallTree поиска k-ближайших соседей на Python
+
+
+## Neural Networks 
+**Books**
+
+**Links**
+
+https://analyticsindiamag.com/a-complete-understanding-of-dense-layers-in-neural-networks/
+
+## Natural Language Processing
 **Books**
 
 Хобсон Лейн, Ханнес Хапке, Коул Ховард. Обработка естественного языка в действии. — СПб.: Питер, 2020. — 576 с.: ил. — (Серия «Для профессионалов»). ISBN 978-5-4461-1371-2
@@ -36,6 +46,10 @@ https://www.deeplearningbook.org/
 **Links**
 
 https://www.kdnuggets.com/2021/09/text-preprocessing-methods-deep-learning.html
+
+https://habr.com/ru/company/vk/blog/579412/ - Читать не надо слушать: как работает распознавание речи ВКонтакте
+
+https://habr.com/ru/company/oleg-bunin/blog/352614/ - Как решить 90% задач NLP: пошаговое руководство по обработке естественного языка
 
 ## Python
 **Books**
@@ -54,6 +68,8 @@ ISBN 978-5-907144-52-1 (рус., том 1) ISBN 978-5-907144-51 (рус., мно
 https://github.com/vinta/awesome-python
 
 https://webdevblog.ru/jupyter-notebook-dlya-nachinajushhih-uchebnik/ - Jupyter Notebook для начинающих: учебник
+
+https://habr.com/ru/post/557998/ - Python, корреляция и регрессия: часть 1
 
 ## Git
 **Books**
@@ -76,8 +92,19 @@ https://habr.com/ru/post/510082/
 
 https://datamasters.ru
 
-https://www.kdnuggets.com/datasets/index.html 
+https://www.kdnuggets.com/datasets/index.html
+
+https://zenodo.org/
 
 ## Examples
 
 https://habr.com/ru/company/ods/blog/430006/ - Data Science проект от исследования до внедрения на примере Говорящей шляпы
+
+## Online Courses & Webinars
+
+https://dataphoenix.info/
+
+https://developers.google.com/machine-learning/crash-course
+
+https://www.coursera.org/specializations/machine-learning-data-analysis?utm_source=MIPT&utm_medium=institutions&utm_campaign=source:site|user:vQYCY5w5l7_2020-08-05T10:56:59.213Z|medium:refferal|campaign:eldf|content:#instructors - Машинное обучение и анализ данных. Типовые задачи машинного обучения и анализа данных и методы их решения
+
