@@ -122,7 +122,13 @@ https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er- Python 
 
 **Links**
 
+## Data Visualization
+**Books**
 
+
+**Links**
+
+https://habr.com/ru/company/otus/blog/558478/ - Топ 6 библиотек Python для визуализации: какую и когда лучше использовать?
 
 ## Git
 **Books**
@@ -136,6 +142,18 @@ https://githowto.com/ru/
 https://learngitbranching.js.org/?locale=ru_RU
 
 https://habr.com/ru/post/552872/ - Что такое VCS (система контроля версий)
+
+## Databases
+**Books**
+
+
+**Links**
+
+https://towardsdatascience.com/top-10-databases-to-use-in-2021-d7e6a85402ba - общий обзор
+
+https://learndb.ru/ - Интерактивные онлайн-курсы по SQL СУБД PostgreSQL
+
+https://www.sql-ex.ru/ - уроки по SQL
 
 ## Data Sets
 
