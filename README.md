@@ -72,6 +72,8 @@ https://habr.com/ru/company/oleg-bunin/blog/352614/ - Как решить 90% з
 
 https://ods.ai/tracks/nlp-course
 
+https://habr.com/ru/post/582922/ - Опыт извлечения обучающих данных из генеративных языковых моделей. В статье присутствует ссылка на ноутбук в Google Colab
+
 ## Python
 **Books**
 
@@ -113,7 +115,15 @@ https://github.com/bharathgs/Awesome-pytorch-list
 
 https://habr.com/ru/post/557998/ - Python, корреляция и регрессия: часть 1
 
+https://habr.com/ru/post/557424/ - Погружаемся в статистику вместе с Python. Часть 1. Z-статистика и p-value
+
+https://habr.com/ru/post/559062/ - Погружаемся в статистику вместе с Python. Часть 2. Распределение Стьюдента
+
+https://habr.com/ru/post/562380/ - Погружаемся в статистику вместе с Python. Часть 3. Тестов много, принцип один
+
 https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er- Python Programming Tutorials (Computer Science)
+
+https://habr.com/ru/company/skillfactory/blog/564240/ - Наглядно о том, как работает NumPy
 
 ## Pandas
 **Books**
@@ -121,6 +131,8 @@ https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er- Python 
 Майкл Хейдт, Артем Груздев. Изучаем Pandas. - второе издение, дополненное.
 
 **Links**
+
+https://pandas.pydata.org/pandas-docs/stable/index.html
 
 ## Data Visualization
 **Books**
