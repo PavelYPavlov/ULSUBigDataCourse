@@ -2,31 +2,33 @@
 This repository contains useful information for studying disciplines related to big data, machine learning and artificial intelligence.
 
 
-[Big Data](#big-data)
+## Table of Contents
 
-[Data Science](#data-science)
+- [Big Data](#big-data)
 
-[Machine Learning](#machine-learning)
+- [Data Science](#data-science)
 
-[Neural Networks](#neural-networks)
+- [Machine Learning](#machine-learning)
 
-[Natural Language Processing](#natural-language-processing)
+- [Neural Networks](#neural-networks)
 
-[Python](#python)
+- [Natural Language Processing](#natural-language-processing)
 
-[Pandas](#pandas)
+- [Python](#python)
 
-[Data Visualization](#data-visualization)
+- [Pandas](#pandas)
 
-[Git](#git)
+- [Data Visualization](#data-visualization)
 
-[Databases](#databases)
+- [Git](#git)
 
-[Data Sets](#data-sets)
+- [Databases](#databases)
 
-[Examples](#examples)
+- [Data Sets](#data-sets)
 
-[Online Courses & Webinars](#online-courses--webinars)
+- [Examples](#examples)
+
+- [Online Courses & Webinars](#online-courses--webinars)
 
 ---
 
@@ -86,6 +88,7 @@ https://analyticsindiamag.com/deep-learning-using-tensorflow-keras/
 ---
 
 ## Neural Networks
+
 **Books**
 
 **Links**
@@ -95,6 +98,7 @@ https://analyticsindiamag.com/a-complete-understanding-of-dense-layers-in-neural
 ---
 
 ## Natural Language Processing
+
 **Books**
 
 Хобсон Лейн, Ханнес Хапке, Коул Ховард. Обработка естественного языка в действии. — СПб.: Питер, 2020. — 576 с.: ил. — (Серия «Для профессионалов»). ISBN 978-5-4461-1371-2
@@ -116,6 +120,7 @@ https://habr.com/ru/post/582922/ - Опыт извлечения обучающ�
 ---
 
 ## Python
+
 **Books**
 
 http://wombat.org.ua/AByteOfPython/ - A Byte of Python
@@ -169,6 +174,7 @@ https://habr.com/ru/company/skillfactory/blog/564240/ - Наглядно о то
 ---
 
 ## Pandas
+
 **Books**
 
 Майкл Хейдт, Артем Груздев. Изучаем Pandas. - второе издение, дополненное.
@@ -180,6 +186,7 @@ https://pandas.pydata.org/pandas-docs/stable/index.html
 ---
 
 ## Data Visualization
+
 **Books**
 
 
@@ -190,6 +197,7 @@ https://habr.com/ru/company/otus/blog/558478/ - Топ 6 библиотек Pyth
 ---
 
 ## Git
+
 **Books**
 
 https://git-scm.com/book/ru/v2 - ProGit
@@ -205,8 +213,8 @@ https://habr.com/ru/post/552872/ - Что такое VCS (система кон�
 ---
 
 ## Databases
-**Books**
 
+**Books**
 
 **Links**
 
@@ -242,7 +250,7 @@ https://habr.com/ru/company/ods/blog/430006/ - Data Science проект от и
 
 https://dataphoenix.info/
 
-https://developers.google.com/machine-learning/crash-course
+https://developers.google.com/machine-learning/crash-course - Курс по машинному обучению от Google
 
 https://www.coursera.org/specializations/machine-learning-data-analysis?utm_source=MIPT&utm_medium=institutions&utm_campaign=source:site|user:vQYCY5w5l7_2020-08-05T10:56:59.213Z|medium:refferal|campaign:eldf|content:#instructors - Машинное обучение и анализ данных. Типовые задачи машинного обучения и анализа данных и методы их решения
 
