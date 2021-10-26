@@ -1,7 +1,37 @@
 # ULSUBigDataCourse
 This repository contains useful information for studying disciplines related to big data, machine learning and artificial intelligence.
 
-## Big Data
+
+[Big Data](#big-data)
+
+[Data Science](#data-science)
+
+[Machine Learning](#machine-learning)
+
+[Neural Networks](#neural-networks)
+
+[Natural Language Processing](#natural-language-processing)
+
+[Python](#python)
+
+[Pandas](#pandas)
+
+[Data Visualization](#data-visualization)
+
+[Git](#git)
+
+[Databases](#databases)
+
+[Data Sets](#data-sets)
+
+[Examples](#examples)
+
+[Online Courses & Webinars](#online-courses--webinars)
+
+---
+
+## Big Data 
+
 **Books**
 
 Томас Эрл. Основы Big Data. Концепции, алгоритмы и технологии. 2018
@@ -10,7 +40,10 @@ This repository contains useful information for studying disciplines related to 
 
 https://habr.com/ru/post/563582/ - Как объяснить детям, что такое Apache Kafka за 15 минут с картинками и выдрами
 
+---
+
 ## Data Science
+
 **Books**
 
 Брантон С. Л., Куц Дж. Н. Анализ данных в науке и технике / пер. с англ А. А. Слинкина. – М.: ДМК Пресс, 2021. – 574 с.: ил. ISBN 978-5-97060-931-6
@@ -19,8 +52,10 @@ https://habr.com/ru/post/563582/ - Как объяснить детям, что 
 
 **Links**
 
+---
 
 ## Machine Learning
+
 **Books**
 
 Флах П. - Машинное обучение. Наука и искусство построения алгоритмов, которые извлекают знания из данных / пер с англ. А.А. Слинкина. - М.: ДМК Пресс, 2015. - 400 с.: ил. ISBN 978-5-97060-273-7
@@ -48,12 +83,16 @@ https://github.com/rasbt/python-machine-learning-book-3rd-edition
 
 https://analyticsindiamag.com/deep-learning-using-tensorflow-keras/
 
-## Neural Networks 
+---
+
+## Neural Networks
 **Books**
 
 **Links**
 
 https://analyticsindiamag.com/a-complete-understanding-of-dense-layers-in-neural-networks/
+
+---
 
 ## Natural Language Processing
 **Books**
@@ -73,6 +112,8 @@ https://habr.com/ru/company/oleg-bunin/blog/352614/ - Как решить 90% з
 https://ods.ai/tracks/nlp-course
 
 https://habr.com/ru/post/582922/ - Опыт извлечения обучающих данных из генеративных языковых моделей. В статье присутствует ссылка на ноутбук в Google Colab
+
+---
 
 ## Python
 **Books**
@@ -125,6 +166,8 @@ https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er- Python 
 
 https://habr.com/ru/company/skillfactory/blog/564240/ - Наглядно о том, как работает NumPy
 
+---
+
 ## Pandas
 **Books**
 
@@ -134,6 +177,8 @@ https://habr.com/ru/company/skillfactory/blog/564240/ - Наглядно о то
 
 https://pandas.pydata.org/pandas-docs/stable/index.html
 
+---
+
 ## Data Visualization
 **Books**
 
@@ -141,6 +186,8 @@ https://pandas.pydata.org/pandas-docs/stable/index.html
 **Links**
 
 https://habr.com/ru/company/otus/blog/558478/ - Топ 6 библиотек Python для визуализации: какую и когда лучше использовать?
+
+---
 
 ## Git
 **Books**
@@ -155,6 +202,8 @@ https://learngitbranching.js.org/?locale=ru_RU
 
 https://habr.com/ru/post/552872/ - Что такое VCS (система контроля версий)
 
+---
+
 ## Databases
 **Books**
 
@@ -166,6 +215,8 @@ https://towardsdatascience.com/top-10-databases-to-use-in-2021-d7e6a85402ba - о
 https://learndb.ru/ - Интерактивные онлайн-курсы по SQL СУБД PostgreSQL
 
 https://www.sql-ex.ru/ - уроки по SQL
+
+---
 
 ## Data Sets
 
@@ -179,9 +230,13 @@ https://www.kdnuggets.com/datasets/index.html
 
 https://zenodo.org/
 
+---
+
 ## Examples
 
 https://habr.com/ru/company/ods/blog/430006/ - Data Science проект от исследования до внедрения на примере Говорящей шляпы
+
+---
 
 ## Online Courses & Webinars
 
@@ -200,3 +255,7 @@ https://habr.com/ru/company/skillfactory/blog/504882/ - 65 бесплатных 
 https://habr.com/ru/company/skillfactory/blog/503730/ - Бесплатные курсы по Data Science от Harvard University
 
 https://habr.com/ru/company/skillfactory/blog/504878/ - 109 бесплатных курсов по Data Science
+
+---
+
+[Up](#ulsubigdatacourse)
