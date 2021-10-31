@@ -216,6 +216,8 @@ https://www.kdnuggets.com/datasets/index.html
 
 https://zenodo.org/
 
+https://mespadoto.github.io/proj-quant-eval/post/projections/ - Projections for all datasets (best parameter set for each projection). Очень хороший набор примеров наборов данных
+
 ## Examples
 
 https://habr.com/ru/company/ods/blog/430006/ - Data Science проект от исследования до внедрения на примере Говорящей шляпы
