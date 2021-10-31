@@ -41,6 +41,8 @@ https://habr.com/ru/post/563582/ - Как объяснить детям, что 
 
 **Links**
 
+https://habr.com/ru/company/biocad/blog/586124/ - Как мы собираем данные для аналитики с помощью Apache NiFi
+
 ## Machine Learning
 
 **Books**
@@ -70,6 +72,10 @@ https://github.com/rasbt/python-machine-learning-book-3rd-edition
 
 https://analyticsindiamag.com/deep-learning-using-tensorflow-keras/
 
+https://dyakonov.org/2021/09/23/dl-esse/ - Эссе по курсу «Глубокое обучение»
+
+https://github.com/Dyakonov/DL - ссылка на git по курсу «Глубокое обучение»
+
 ## Neural Networks
 
 **Books**
@@ -77,6 +83,8 @@ https://analyticsindiamag.com/deep-learning-using-tensorflow-keras/
 **Links**
 
 https://analyticsindiamag.com/a-complete-understanding-of-dense-layers-in-neural-networks/
+
+https://www.pyimagesearch.com/2021/10/11/pytorch-transfer-learning-and-image-classification/ - PyTorch: Transfer Learning and Image Classification
 
 ## Natural Language Processing
 
@@ -182,6 +190,8 @@ https://learngitbranching.js.org/?locale=ru_RU
 
 https://habr.com/ru/post/552872/ - Что такое VCS (система контроля версий)
 
+https://www.youtube.com/watch?v=3HJoXpC9vAM - Git и GitHub подробный курс для новичков
+
 ## Databases
 
 **Books**
@@ -210,7 +220,13 @@ https://zenodo.org/
 
 https://habr.com/ru/company/ods/blog/430006/ - Data Science проект от исследования до внедрения на примере Говорящей шляпы
 
+https://habr.com/ru/post/586474/ - Обучение с подкреплением на Python: Пример не из «качалки»
+
+https://habr.com/ru/post/586558/ - Развёртывание в Kubernetes из GitLab
+
 ## Online Courses & Webinars
+
+https://www.youtube.com/watch?v=XKHEtdqhLK8 - курс по python на английском языке
 
 https://dataphoenix.info/
 
@@ -227,3 +243,11 @@ https://habr.com/ru/company/skillfactory/blog/504882/ - 65 бесплатных 
 https://habr.com/ru/company/skillfactory/blog/503730/ - Бесплатные курсы по Data Science от Harvard University
 
 https://habr.com/ru/company/skillfactory/blog/504878/ - 109 бесплатных курсов по Data Science
+
+https://habr.com/ru/post/584964/ - Data Science с нуля. Большая подборка курсов
+
+https://habr.com/ru/company/ruvds/blog/582478/ - Data Science: лучшие учебные курсы и программы сертификации
+
+https://teachyourselfcs.com/ - Teach Yourself Computer Science
+
+https://github.com/ilmoi/teachyourselfCS-RU/blob/master/Teach_yourself_cs-2020-RU.md - Как выучить Computer Science самостоятельно?
