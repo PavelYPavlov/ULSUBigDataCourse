@@ -16,6 +16,7 @@ This repository contains useful information for studying disciplines related to 
   - [Data Visualization](#data-visualization)
   - [Git](#git)
   - [Databases](#databases)
+  - [Containers](#containers)
   - [Data Sets](#data-sets)
   - [Examples](#examples)
   - [Online Courses & Webinars](#online-courses--webinars)
@@ -204,6 +205,14 @@ https://learndb.ru/ - Интерактивные онлайн-курсы по SQ
 
 https://www.sql-ex.ru/ - уроки по SQL
 
+## Containers
+
+**Books**
+
+**Links**
+
+https://habr.com/ru/post/589415/ - K8S для начинающих. Первая часть
+
 ## Data Sets
 
 https://ieee-dataport.org/
@@ -253,3 +262,7 @@ https://habr.com/ru/company/ruvds/blog/582478/ - Data Science: лучшие уч
 https://teachyourselfcs.com/ - Teach Yourself Computer Science
 
 https://github.com/ilmoi/teachyourselfCS-RU/blob/master/Teach_yourself_cs-2020-RU.md - Как выучить Computer Science самостоятельно?
+
+https://habr.com/ru/post/587732/ - Ontol: Лучшие бесплатные онлайн-курсы от MIT
+
+https://habr.com/ru/company/skillfactory/blog/509212/ - Онтол от DeepMind: самые полезные материалы по искусственному интеллекту от мирового лидера
