@@ -77,15 +77,35 @@ https://dyakonov.org/2021/09/23/dl-esse/ - Эссе по курсу «Глубо
 
 https://github.com/Dyakonov/DL - ссылка на git по курсу «Глубокое обучение»
 
+https://ml-handbook.ru/ - Онлайн-учебник по машинному обучению от ШАД
+
+https://dafriedman97.github.io/mlbook/content/introduction.html - Machine Learning from Scratch
+
+https://github.com/afshinea/stanford-cs-229-machine-learning
+
+https://github.com/ageron/handson-ml2 - Machine Learning Notebooks
+
+https://github.com/Yorko/mlcourse.ai - achine Learning course by OpenDataScience (ods.ai)
+
 ## Neural Networks
 
 **Books**
+
+Тарик Рашид. Создаем нейронную сеть / Пер. с англ. — СПб.: ООО “Альфа-книга”, 2017. — 272 с.: ил. — Парал. тит. англ. ISBN 978-5-9909445-7-2 (рус.)
+
+Чару Аггарвал. Нейронные сети и глубокое обучение: учебный курс / Пер. с англ. — СПб.: ООО "Диалектика", 2020. — 752 с.: ил. — Парал. тит. англ. ISBN 978-5-907203-01-3(рус.)
 
 **Links**
 
 https://analyticsindiamag.com/a-complete-understanding-of-dense-layers-in-neural-networks/
 
 https://www.pyimagesearch.com/2021/10/11/pytorch-transfer-learning-and-image-classification/ - PyTorch: Transfer Learning and Image Classification
+
+https://habr.com/ru/post/198268/ - Алгоритм обучения многослойной нейронной сети методом обратного распространения ошибки (Backpropagation)
+
+https://aegeorge42.github.io/
+
+https://towardsdatascience.com/pyspark-neural-network-from-scratch-8a19ebad3904 
 
 ## Natural Language Processing
 
@@ -106,6 +126,8 @@ https://habr.com/ru/company/oleg-bunin/blog/352614/ - Как решить 90% з
 https://ods.ai/tracks/nlp-course
 
 https://habr.com/ru/post/582922/ - Опыт извлечения обучающих данных из генеративных языковых моделей. В статье присутствует ссылка на ноутбук в Google Colab
+
+https://towardsdatascience.com/complete-machine-learning-pipeline-for-nlp-tasks-f39f8b395c0d
 
 ## Python
 
@@ -158,6 +180,8 @@ https://habr.com/ru/post/562380/ - Погружаемся в статистик�
 https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er- Python Programming Tutorials (Computer Science)
 
 https://habr.com/ru/company/skillfactory/blog/564240/ - Наглядно о том, как работает NumPy
+
+https://www.youtube.com/watch?v=i8D_lWKyJPk - Pytorch Tutorial for Beginners
 
 ## Pandas
 
@@ -248,6 +272,12 @@ https://www.coursera.org/specializations/machine-learning-data-analysis?utm_sour
 https://www.coursera.org/learn/machine-learning
 
 https://dataflowr.github.io/website/ - This site collects resources to learn Deep Learning
+
+https://www.youtube.com/playlist?list=PLJOzdkh8T5kpL2y8-lhHOlBxzLszSyDa0  - Глубинное обучение. Школа анализа данных, Яндекс
+
+https://www.youtube.com/playlist?list=PLPPIc-4tm3YQrvK3Kpo-S_7ZkOGKH0r_5 - Гарвард CS50: Введение в Искусственный Интеллект с Python 2020 на русском
+
+https://www.youtube.com/playlist?list=PL0Ks75aof3Th2vlYGtvL92YN7S_2bux1S - Глубокое Обучение. Лекции
 
 https://habr.com/ru/company/skillfactory/blog/504882/ - 65 бесплатных курсов по Machine Learning от ведущих университетов мира
 
