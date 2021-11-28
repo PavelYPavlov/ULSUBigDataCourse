@@ -85,7 +85,13 @@ https://github.com/afshinea/stanford-cs-229-machine-learning
 
 https://github.com/ageron/handson-ml2 - Machine Learning Notebooks
 
-https://github.com/Yorko/mlcourse.ai - achine Learning course by OpenDataScience (ods.ai)
+https://github.com/Yorko/mlcourse.ai - Machine Learning course by OpenDataScience (ods.ai)
+
+https://github.com/esokolov/ml-course-hse - Курс "Машинное обучение" на ФКН ВШЭ
+
+https://github.com/ml-mipt - материалы МФТИ по машинному обучению
+
+http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf - Математические методы обучения по прецедентам (теория обучения машин)
 
 ## Neural Networks
 
@@ -117,6 +123,10 @@ https://towardsdatascience.com/pyspark-neural-network-from-scratch-8a19ebad3904
 
 **Links**
 
+https://www.youtube.com/playlist?list=PLHvlTBWld13NDsJpNQU095K81vw5bH7X3 - Курс Natural Language Processing на русском языке
+
+https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z - CS224N: Natural Language Processing with Deep Learning | Winter 2019 от Stanford University
+
 https://www.kdnuggets.com/2021/09/text-preprocessing-methods-deep-learning.html
 
 https://habr.com/ru/company/vk/blog/579412/ - Читать не надо слушать: как работает распознавание речи ВКонтакте
@@ -128,6 +138,8 @@ https://ods.ai/tracks/nlp-course
 https://habr.com/ru/post/582922/ - Опыт извлечения обучающих данных из генеративных языковых моделей. В статье присутствует ссылка на ноутбук в Google Colab
 
 https://towardsdatascience.com/complete-machine-learning-pipeline-for-nlp-tasks-f39f8b395c0d
+
+https://arxiv.org/abs/1706.03762 - Attention Is All You Need
 
 ## Python
 
@@ -296,3 +308,7 @@ https://github.com/ilmoi/teachyourselfCS-RU/blob/master/Teach_yourself_cs-2020-R
 https://habr.com/ru/post/587732/ - Ontol: Лучшие бесплатные онлайн-курсы от MIT
 
 https://habr.com/ru/company/skillfactory/blog/509212/ - Онтол от DeepMind: самые полезные материалы по искусственному интеллекту от мирового лидера
+
+https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk - CS231n: Convolutional Neural Networks for Visual Recognition
+
+https://leetcode.com/
