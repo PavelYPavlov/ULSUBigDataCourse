@@ -65,6 +65,8 @@ https://www.deeplearningbook.org/
 Гудфеллоу Я., Бенджио И., Курвилль А. Глубокое обучение / пер. с анг. А. А. Слинкина. – 2-е изд., испр. – М.: ДМК
 Пресс, 2018. – 652 с.: цв. ил. ISBN 978-5-97060-618-6
 
+https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf - Deep Learning with PyTorch / Eli Stevens, Luca Antiga, Thomas Viehmann
+
 **Links**
 
 https://habr.com/ru/post/575130/ - Классификатор методом BallTree поиска k-ближайших соседей на Python
@@ -120,6 +122,8 @@ https://towardsdatascience.com/pyspark-neural-network-from-scratch-8a19ebad3904
 Хобсон Лейн, Ханнес Хапке, Коул Ховард. Обработка естественного языка в действии. — СПб.: Питер, 2020. — 576 с.: ил. — (Серия «Для профессионалов»). ISBN 978-5-4461-1371-2
 
 Васильев Юлий.  Обработка естественного языка. Python и spaCy на практике. — СПб.: Питер, 2021. — 256 с.: ил. — (Серия «Библиотека программиста»). ISBN 978-5-4461-1506-8
+
+https://www.nltk.org/book/ - Steven Bird, Ewan Klein, and Edward Loper. Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit
 
 **Links**
 
@@ -312,3 +316,5 @@ https://habr.com/ru/company/skillfactory/blog/509212/ - Онтол от DeepMind
 https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk - CS231n: Convolutional Neural Networks for Visual Recognition
 
 https://leetcode.com/
+
+https://ods.ai/tracks/nlp-course - Natural Language Processing course
